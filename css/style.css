@@ -1,0 +1,114 @@
+* {
+	border: none; 
+	margin: 0px; 
+	padding:0px;
+} 
+img{
+	width: 100px;
+	height: 100px;
+	size: 100%;
+	}
+
+p{
+	font-size: medium;
+	font-weight: lighter;
+}
+
+.title{
+	width: 645px;
+	height: 60px;
+	background-color: #FFCA00;
+	text-align: center;
+	font-family: 'Saira Extra Condensed', sans-serif;
+	outline: 1px solid black;
+	line-height: 60px;
+	margin-top: 30px;
+}
+.contenedor{
+	width: 645px;
+	height: 450px;
+	outline: 1px solid black;
+	text-align: center;
+}
+.antes {
+	width: 216px;
+	height: 450px;
+	display: inline-block;
+	text-align: justify;
+	outline: 1px solid black;
+	position: relative;
+	top:-18px;
+}
+.antes h4{
+	position:relative;
+	text-align: center;
+	top: 30px;
+}
+.antes p{
+	position:relative;
+	top: 80px;
+	margin:10px;
+}
+.antes img{
+	position:relative;
+	top: 140px;
+	left: 60px;
+}
+.monopoly {
+	width: 210px;
+	height: 440px;
+	background-color: white;
+	display: inline-block;
+	text-align: center;
+	text-align: justify;
+}
+.monopoly h3{
+	position:relative;
+	text-align: center;
+	top: 30px;
+}
+.monopoly p{
+	position:relative;
+	top: 80px;
+	margin:10px;
+}
+.monopoly img{
+	position:relative;
+	top: 140px;
+	left: 60px;
+}
+.ahora {
+	width: 211px;
+	height: 450px;
+	background-color: white;
+	display: inline-block;
+	text-align: center;
+	outline: 1px solid black;
+	text-align: justify;
+	
+}
+.ahora h4{
+	position:relative;
+	text-align: center;
+	top: 30px;
+}
+.ahora p{
+	position:relative;
+	top: 80px;
+	margin:10px;
+}
+.ahora img{
+	position:relative;
+	top: 140px;
+	left: 60px;
+}
+.foot{
+	margin: 0;
+	width: 645px;
+	text-align: center;
+	background-color: #FFCA00;
+	height: 40px;
+	line-height: 40px;
+	outline: 1px solid black;
+
+}
